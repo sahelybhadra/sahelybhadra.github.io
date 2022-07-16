@@ -1,0 +1,65 @@
+# jemdoc: menu{MENU}{index.html}, fwtitle, nofooter
+# jemdoc: nodefaultcss, addcss{jemdoc.css}
+== Sahely Bhadra
+
+
+
+~~~
+{}{img_left}{photo.png}{alt text}{200}{300} #WIDTHpx}{HEIGHTpx}{IMGLINKTARGET}
+
+
+- Assistant Professor, 
+- Department of Data Science, [https://iitpkd.ac.in/ IIT Palakkad].
+- Department of Computer Science and Engineering,
+- Founding member of [https://mlgiitpkd.github.io/ Palakkad Machine Learning Group].
+- Founding member of [https://creds.iitpkd.ac.in/ CREDS] (Centre for Research and Education in Data Science).
+
+\n
+Email: sahely [at] iitpkd [dot] ac [dot] in \n
+~~~
+
+
+== Students
+=== PhD. 
+- Abilasha
+- Vinitha Rajan
+- Vineetha
+- Vishnu
+
+=== Graduated Research Scholars
+- PhD. Viivi Uurtio (co-supervising with Prof Juho Rousu of Aalto University, Finland)
+- MS. Shikha Mallik
+
+=== Graduated BTech. Students 
+- Ahmed Zaheer Dadarkar (2017-2021): Extreme Value prediction in Time series data \n
+
+- Vipin Kumar Seth (2017-2021): Rainfall prediction in a small region around Palakkad \n 
+
+- Ipsita Singh  (2016-2020): Learning Graph Embedding for Graph Classification \n
+
+- Adrian McDonald Tariang (2015-2019):  Automated Newspaper Typesetting based on News Values and Prior Editorial Style \n
+
+- Akshat Choube(2015-2019): Study of Multiview Face Synthesis Using Generative Adversarial Networks (GANs) \n
+
+- Anish MM (2015-2019): Unsupervised Lower Dimensional Representation Learning for Time Series Data \n
+
+- Prabal  Vashisht (2015-2019): Multi-view data interpretation and completion using Deep Networks \n
+
+== Sponsored Projects
+ - Core Research Grand (CRG) from SERB, DST of around INR 3.5m on Project titled "Robust Multi-view Learning for Extreme Events Detection and Prediction in Time Series Data “. 2021-2024.
+ - Automatic Pathogen Detection in plants (as Co-investigator ) a project in TIH of IITPalakkad
+
+== Past positions
+- +Postdoc+.     Network Science Institute, Northeastern University, USA (Jan, 2017 - May 2017)\n
+        Adviser: Tina Eliassi-Rad
+- +Postdoc+.   Helsinki Institute of Information Technology, Aalto University, Finland (Oct,2014 - Dec,2016)\n
+        Adviser: Samuel Kaski, Juho Rousu
+- +Postdoc+.    Max-Planck-Institute for Informatik and Saarland University, Germany (Sep, 2012 - Aug, 2014)\n
+        Adviser : Matthias Hein
+- +PhD+. Computer Science (Aug, 2006 - Sep, 2012) \n
+    Indian Institute of Science (IISc), Bangalore \n
+    Adviser: Chiranjib Bhattacharyya \n
+    Thesis: Learning Robust Support Vector Machine Classifiers with Uncertain Observations
+
+
+ 

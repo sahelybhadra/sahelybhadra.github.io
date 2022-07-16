@@ -1,0 +1,61 @@
+# jemdoc: menu{MENU}{publication.html}, fwtitle, nofooter
+== Dr. Sahely Bhadra
+
+== Publications
+
+. Understanding the limitations of network online learning.\n
+	Timothy LaRock, Timothy Sakharov, Sahely Bhadra, Tina Eliassi-Rad: \n
+	Applied Network Science 5 (1) 60 (2020)
+. Large-Scale Sparse Kernel Canonical Correlation Analysis\n
+Viivi Uurtio , Sahely Bhadra and Juho Rousu\n
+Proceedings of the 36th International Conference on Machine Learning(ICML) 6383--6391 (2019)\n
+. Warping Resilient Time Series Embeddings\n
+Anish Mathew, Deepak P and Sahely Bhadra\n
+ICML 2019 Time Series Workshop (2019)\n
+. Book Chapter: Multi-View Data Completion\n
+Sahely Bhadra\n
+P D., Jurek-Loughrey A. (eds) Linking and Mining Heterogeneous and Multi-view Data. Unsupervised and Semi-Supervised Learning. Springer, Cham 1-25 (2019)\n
+. Sparse Non-Linear CCA through Hilbert-Schmidt Independence Criterion\n
+Viivi Uurtio, Sahely Bhadra, Juho Rusu\n
+IEEE International Conference on Data Mining (ICDM'18) (2018)\n
+. Limits of Learning in Incomplete Networks\n
+Timothy Larock, Timothy Sakhrov, Sahely Bhadra and Tina Eliassi - Rad.\n
+International School and Conference of Network Science (NetSci) (2018)\n
+. Reducing Network Incompleteness Through Online Learning: A Feasibility Study\n
+Timothy LaRock, Timothy Sakharov, Sahely Bhadra and Tina Eliassi-Rad\n
+Accepted for 14th International Workshop on Mining and Learning with Graphs (MLG) (2018)\n
+. Book Chapter: Analysis of Fluxomic Experiments with Principal Metabolic Flux Mode Analysis\n
+Sahely Bhadra and Juho Rousu\n
+Springer Book : Data Mining for Systems Biology (2018)\n
+#PMFA_Book_Chapter_springer.pdf
+. Principal Metabolic Flux Mode Analysis\n
+Sahely Bhadra, Peter Blomberg, Sandra Castillo, and Juho Rousu.\n
+Bioinformatics 34 (14) 2409–2417 (2018)\n
+. Multi-view Kernel Completion. \n
+Sahely Bhadra, Samuel Kaski and Juho Rousu. \n
+Machine Learning 106 (5), 713-739, 2017 \n
+. Correction of Noisy Labels via Mutual Consistency Check. \n
+Sahely Bhadra, Matthias Hein. \n
+Neurocomputing (160): 34-52, 2015.\n
+. Efficient Methods for Robust Classification Under Uncertainty in Kernel Matrices. \n 
+Aharon Ben-Tal, Sahely Bhadra, Chiranjib Bhattacharyya and Arkadi Nemirovski.\n
+Journal of Machine Learning Research 13 (Oct):2923.2954, 2012.\n
+. Web Information Extraction Using Markov Logic Networks (pdf). \n
+Sandeepkumar Satpal, Sahely Bhadra, S Sundararajan, Rajeev Rastogi, Prithviraj Sen. \n
+17th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)2011.\n
+. Web Information Extraction Using Markov Logic Networks (Poster). \n
+Sandeepkumar Satpal, Sahely Bhadra, S Sundararajan, Rajeev Rastogi, Prithviraj Sen. \n
+International World Wide Web Conferences (WWW) 2011.\n
+. Chance constrained uncertain classification via robust optimization. \n
+Aharon Ben-Tal, Sahely Bhadra, Chiranjib Bhattacharyya and J. Saketha Nath. \n
+Mathematical Programming Series B, 2011.\n
+. Robust Formulations for Handling Uncertainty in Kernel Matrices(paper,demo). \n
+Sahely Bhadra, Sourangshu Bhattacharrya , Chiranjib Bhattacharyya and Aharon Ben-Tal.\n 
+International Conference on Machine Learning (ICML) 2010.\n
+. Interval Data Classification under Partial Information: A Chance-Constraint Approach (pdf). \n
+Sahely Bhadra, J. Saketha Nath, Aharon Ben-Tal and Chiranjib Bhattacharyya. \n
+Achieved *Best Runner-up* certificate in PAKDD-2009.\n
+. A Linear Programming Approach for Estimating the Structure of a Sparse Linear Genetic Network from Transcript Profiling Data. \n
+S. Bhadra , C. Bhattacharyya , N. Chandra , I.S. Mian. \n
+Accepted for Journal of Algorithms for Molecular Biology, 2009.\n
+

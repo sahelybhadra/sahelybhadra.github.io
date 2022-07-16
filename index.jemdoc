@@ -1,14 +1,14 @@
 # jemdoc: menu{MENU}{index.html}, fwtitle, nofooter
 # jemdoc: nodefaultcss, addcss{jemdoc.css}
-== Sahely Bhadra
+== Dr. Sahely Bhadra
 
 
 
 ~~~
-{}{img_left}{photo.png}{alt text}{200}{300} #WIDTHpx}{HEIGHTpx}{IMGLINKTARGET}
+{}{img_left}{photo.png}{alt text}{300}{300} #WIDTHpx}{HEIGHTpx}{IMGLINKTARGET}
 
 
-- Assistant Professor, 
+- Assistant Professor 
 - Department of Data Science, [https://iitpkd.ac.in/ IIT Palakkad].
 - Department of Computer Science and Engineering,
 - Founding member of [https://mlgiitpkd.github.io/ Palakkad Machine Learning Group].
@@ -17,6 +17,12 @@
 \n
 Email: sahely [at] iitpkd [dot] ac [dot] in \n
 ~~~
+
+== Research Area
+- Theoretical Machine Learning, Optimization 
+- Multi-view data, Time-series data
+- Bioinformatics, Computer Vision
+
 
 
 == Students
@@ -48,6 +54,12 @@ Email: sahely [at] iitpkd [dot] ac [dot] in \n
 == Sponsored Projects
  - Core Research Grand (CRG) from SERB, DST of around INR 3.5m on Project titled "Robust Multi-view Learning for Extreme Events Detection and Prediction in Time Series Data “. 2021-2024.
  - Automatic Pathogen Detection in plants (as Co-investigator ) a project in TIH of IITPalakkad
+
+== Awards
+- Indo-Finish Mobility grand 2019-2020 from DST and Academy of Finland (June-July 2019).
+- IMPECS postdoc fellowship, 2012-2014.
+- IBM Ph.D. Fellowship Award 2010 - 2011.
+- Best Runner Up paper award in PAKDD, 2009.
 
 == Past positions
 - +Postdoc+.     Network Science Institute, Northeastern University, USA (Jan, 2017 - May 2017)\n
